@@ -1,4 +1,4 @@
-START_MSG = """<b><i><blockquote>⚡𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 𝙏𝙝𝙚 𝙐𝙡𝙩𝙞𝙢𝙖𝙩𝙚 𝙈𝙞𝙧𝙧𝙤𝙧 𝘽𝙤𝙩⚡
+START_MSG = """<b><blockquote>⚡𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 𝙏𝙝𝙚 𝙐𝙡𝙩𝙞𝙢𝙖𝙩𝙚 𝙈𝙞𝙧𝙧𝙤𝙧 𝘽𝙤𝙩⚡
 </blockquote>
 ➥ 𝙈𝙞𝙧𝙧𝙤𝙧 𝙛𝙧𝙤𝙢 𝙇𝙞𝙣𝙠𝙨 | 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙁𝙞𝙡𝙚𝙨 | 𝙏𝙤𝙧𝙧𝙚𝙣𝙩𝙨 | 𝙉𝙕𝘽 | 𝙍𝘾𝙡𝙤𝙣𝙚
 
@@ -8,7 +8,7 @@ START_MSG = """<b><i><blockquote>⚡𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 𝙏�
 
 📞 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ➤ @IM_SUSANT  
 💤 @xFlexyy - 𝙏𝙝𝙚 𝙐𝙣𝙗𝙧𝙚𝙖𝙠𝙖𝙗𝙡𝙚 𝘾𝙧𝙚𝙖𝙩𝙤𝙧
-</i></b>
+</b>
 
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/SusantxBotz">˹𝐒ᴜ𝐬ᴀɴᴛ ꭙ 𝐒ᴜᴘᴘᴏʀᴛ˼</a></blockquote>"""
 
