@@ -20,7 +20,7 @@ STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
 EXCLUDED_EXTENSIONS = ""
-INCOMPLETE_TASK_NOTIFIER = False
+INCOMPLETE_TASK_NOTIFIER = True
 YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SWAP = ""
@@ -90,7 +90,7 @@ DELETE_LINKS = False
 CLEAN_LOG_MSG = False
 
 # Limiters
-BOT_MAX_TASKS = 0
+BOT_MAX_TASKS = 10
 USER_MAX_TASKS = 0
 USER_TIME_INTERVAL = 0
 VERIFY_TIMEOUT = 0
@@ -109,7 +109,7 @@ STOP_DUPLICATE = False
 INDEX_URL = ""
 
 # YT Tools
-YT_DESP = "Uploaded to YouTube by WZML-X bot"
+YT_DESP = "Uploaded to YouTube by xFlexyy"
 YT_TAGS = ["telegram", "bot", "youtube"]  # or as a comma-separated string
 YT_CATEGORY_ID = 22
 YT_PRIVACY_STATUS = "unlisted"
