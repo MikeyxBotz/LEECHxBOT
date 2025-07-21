@@ -6,8 +6,11 @@ START_MSG = """
 ⇢ 𝙏𝙤 ➤ 𝙂𝙤𝙤𝙜𝙡𝙚 𝘿𝙧𝙞𝙫𝙚 | 𝙍𝘾𝙡𝙤𝙣𝙚 𝘾𝙡𝙤𝙪𝙙 | 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢
 
 🧩 𝙏𝙮𝙥𝙚 <code>/{cmd}</code> 𝙩𝙤 𝙫𝙞𝙚𝙬 𝙖𝙡𝙡 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨
+
+📞 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ➤ @IM_SUSANT  
+💤 @xFlexyy - 𝙏𝙝𝙚 𝙐𝙣𝙗𝙧𝙚𝙖𝙠𝙖𝙗𝙡𝙚 𝘾𝙧𝙚𝙖𝙩𝙤𝙧
 </i></b>
 """
 
-START_BUTTON1 = "👥 𝙂𝙧𝙤𝙪𝙥 𝘾𝙝𝙖𝙩"
-START_BUTTON2 = "🧿 𝙁𝙖𝙩𝙝𝙚𝙧 "
+START_BUTTON1 = "👾 𝙂𝙧𝙤𝙪𝙥"
+START_BUTTON2 = "⚡ 𝙁𝙖𝙩𝙝𝙚𝙧"
