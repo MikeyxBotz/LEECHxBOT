@@ -34,7 +34,7 @@ async def start(_, message):
     buttons.url_button(
         lang.START_BUTTON1, "https://t.me/Free_leech_Group_india"
     )
-    buttons.url_button(lang.START_BUTTON2, "https://t.me/+cuO81DvKtxM5MmY1")
+    buttons.url_button(lang.START_BUTTON2, "https://t.me/xFlexyy")
     reply_markup = buttons.build_menu(2)
 
     if len(message.command) > 1 and message.command[1] == "wzmlx":
