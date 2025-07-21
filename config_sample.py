@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7800866839:AAFXuPL0FSfo4Rt19-YWlfUKbgU-uYgwSkU"
+OWNER_ID = 8156708830
+TELEGRAM_API = 21134445
+TELEGRAM_HASH = "231c18ea7273824491d6bf05425ab74e"
+DATABASE_URL = "mongodb+srv://dragonbytexbotz:ZYivvnFytzvM9b5l@cluster0.w4qnbpw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,8 +12,8 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+AUTHORIZED_CHATS = "-1002831437619"
+SUDO_USERS = "7968389767 7125448912"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -31,8 +31,8 @@ UPLOAD_PATHS = {}
 HELPER_TOKENS = ""
 
 # MegaAPI v4.30
-MEGA_EMAIL = ""
-MEGA_PASSWORD = ""
+MEGA_EMAIL = "SusantxBotz@gmail.com"
+MEGA_PASSWORD = "SUSANTA@123256"
 
 # Disable Options
 DISABLE_TORRENTS = False
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "SUSANT"
+AUTHOR_URL = "https://t.me/IM_SUSANT"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -102,7 +102,7 @@ SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "100pCdyinzdBY-VL7ZiL7tOE6q91qxtIM"
 GD_DESP = "Uploaded with WZ Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
@@ -168,9 +168,9 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
-LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_DUMP_CHAT = "-1002549945814"
+LINKS_LOG_ID = "-1002549945814"
+MIRROR_LOG_ID = "-1002549945814"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
