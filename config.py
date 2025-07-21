@@ -85,8 +85,8 @@ IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
 
 # Task Tools
 FORCE_SUB_IDS = ""
-MEDIA_STORE = True
-DELETE_LINKS = False
+MEDIA_STORE = False
+DELETE_LINKS = True
 CLEAN_LOG_MSG = False
 
 # Limiters
