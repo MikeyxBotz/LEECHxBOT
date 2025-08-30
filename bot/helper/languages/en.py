@@ -6,11 +6,11 @@ START_MSG = """<b><blockquote>⚡𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 𝙏𝙝�
 
 🧩 𝙏𝙮𝙥𝙚 <code>/{cmd}</code> 𝙩𝙤 𝙫𝙞𝙚𝙬 𝙖𝙡𝙡 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨
 
-📞 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ➤ @IM_SUSANT  
+📞 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ➤ @NoOneIsMinee 
 💤 @xFlexyy - 𝙏𝙝𝙚 𝙐𝙣𝙗𝙧𝙚𝙖𝙠𝙖𝙗𝙡𝙚 𝘾𝙧𝙚𝙖𝙩𝙤𝙧
 </b>
 
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/SusantxBotz">˹𝐒ᴜ𝐬ᴀɴᴛ ꭙ 𝐒ᴜᴘᴘᴏʀᴛ˼</a></blockquote>"""
+<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/FREE_LEECH_GROUP_INDIA">🜚 𝙁𝙍𝙀𝙀 𝙇𝙀𝙀𝘾𝙃 • 𝙂𝙍𝙊𝙐𝙋  </a></blockquote>"""
 
 START_BUTTON1 = "👾 𝙂𝙧𝙤𝙪𝙥"
 START_BUTTON2 = "🧩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡"
