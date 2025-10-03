@@ -1,5 +1,5 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "7870968163:AAG9aS5BnSBeiSbYTAo3i1yGy2Io0irPiSU"
+BOT_TOKEN = ""
 OWNER_ID = 8156708830
 TELEGRAM_API = 21134445
 TELEGRAM_HASH = "231c18ea7273824491d6bf05425ab74e"
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "SUSANT"
-AUTHOR_URL = "https://t.me/IM_SUSANT"
+AUTHOR_NAME = "HYPER"
+AUTHOR_URL = "https://t.me/NoOneIsMinee"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -103,7 +103,7 @@ TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
 GDRIVE_ID = "100pCdyinzdBY-VL7ZiL7tOE6q91qxtIM"
-GD_DESP = "Uploaded with xFlexyy Bot"
+GD_DESP = "Uploaded with Hyper Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
